@@ -1,0 +1,7 @@
+com\ncit\registration\dao\impl\UserDaoImpl.class
+com\ncit\registration\service\impl\UserServiceImpl.class
+com\ncit\registration\util\HibernateUtil.class
+com\ncit\registration\service\UserService.class
+com\ncit\registration\model\User.class
+com\ncit\registration\dao\UserDao.class
+com\ncit\registration\controller\UserController.class
